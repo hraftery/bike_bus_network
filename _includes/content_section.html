@@ -1,0 +1,35 @@
+{% assign section_data = include.section_data %}
+{% assign image_float = include.section_data.image_float | default: 'left' %}
+
+<!-- {{ section_data.title }} -->
+<section class="page-section" id="{{ section_data.section }}">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading text-uppercase">{{ section_data.title }}</h2>
+        {% if section_data.text %}
+        <h3 class="section-subheading text-muted">{{ section_data.text }}</h3>
+        {% endif %}
+      </div>
+    </div>
+    <div class="row align-items-center">
+      {% if image_float == 'left' %}
+      <div class="col-lg-4">
+        <img class="img-fluid" src="{{ section_data.image }}" alt="{{ section_data.title }}">
+      </div>
+      <div class="col-lg-8">
+        <div class="large text-muted">{{ section_data.body | markdownify }}</div>
+      </div>
+      {% else %}
+      <div class="col-lg-8">
+        <div class="large text-muted">{{ section_data.body | markdownify }}</div>
+      </div>
+      <div class="col-lg-4">
+        <img class="img-fluid" src="{{ section_data.image }}" alt="{{ section_data.title }}">
+      </div>
+      {% endif %}
+    </div>
+  </div>
+</section>
+<!-- End {{ section_data.title }} -->
+

@@ -31,11 +31,19 @@ en: &DEFAULT_EN
         desc: "Start a bike bus near you."
         icon: fas fa-plus-circle
 
-  about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-    section: about
+  content_sections:
+    - title: "Learn"
+      text: "Subtitle for section one"
+      body: "This is the content for the first new section. You can use **Markdown** formatting here. The image will float on the left side."
+      image: "assets/img/52374447801_6a55ac5f1d_o.jpg"
+      section: section1
+      image_float: "left"
+    - title: "Section Two"
+      text: "Subtitle for section two"
+      body: "This is the content for the second new section. You can use **Markdown** formatting here. The image will float on the right side."
+      image: "assets/img/52374447801_6a55ac5f1d_o.jpg"
+      section: section2
+      image_float: "right"
 
   contact:
     title: "Get In Touch"

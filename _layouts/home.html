@@ -4,11 +4,12 @@ layout: default
 {% include navheader.html %}
 
 {% include services.html %}
+{% for section in site.data.sitetext[site.locale].content_sections %}
+  {% include content_section.html section_data=section %}
+{% endfor %}
 {% comment %}
 {% include portfolio_grid.html %}
-{% endcomment %}
 {% include about.html %}
-{% comment %}
 {% include timeline.html %}
 {% include team.html %}
 {% include clients.html %}
