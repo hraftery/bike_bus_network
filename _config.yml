@@ -30,9 +30,21 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: minima
+#theme: jekyll-agency
+remote_theme: raviriley/agency-jekyll-theme@d477a171ec9633c980c8ef9098eeac39b60ceba3
 plugins:
-  - jekyll-feed
+#  - jekyll-feed
+  - jekyll-remote-theme
+
+locale: "en-US"
+analytics:
+  google: #Google Analytics tracking code here
+# collections:
+#   portfolio:
+markdown: kramdown
+# Uncomment following line to use Formspree form ID based URL instead of email based URL
+# Details: https://help.formspree.io/hc/en-us/articles/360017735154-How-to-prevent-spam
+# formspree_form_path: "f/a_form_id"
 
 # Exclude from processing.
 # The following items will not be processed, by default.

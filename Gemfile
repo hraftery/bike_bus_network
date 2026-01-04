@@ -15,18 +15,22 @@ gem "minima", "~> 2.5"
 # gem "github-pages", group: :jekyll_plugins
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.12"
+  #gem "jekyll-feed", "~> 0.12"
 end
+# Note jekyll-remote-theme currently requires jekyll-sass-converter 3.0.0. You may want to
+# uninstall 3.1.0 so you can run `jekyll` instead of `bundle exec jekyll`. But once this
+# issue is resolved we might not need it at all: https://github.com/raviriley/agency-jekyll-theme/issues/103
+gem 'jekyll-remote-theme', '~> 0.4.3'
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
-platforms :mingw, :x64_mingw, :mswin, :jruby do
+platforms :windows, :jruby do
   gem "tzinfo", ">= 1", "< 3"
   gem "tzinfo-data"
 end
 
 # Performance-booster for watching directories on Windows
-gem "wdm", "~> 0.1", :platforms => [:mingw, :x64_mingw, :mswin]
+gem "wdm", "~> 0.1", :platforms => [:windows]
 
 # Lock `http_parser.rb` gem to `v0.6.x` on JRuby builds since newer versions of the gem
 # do not have a Java counterpart.
