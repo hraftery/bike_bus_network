@@ -18,18 +18,19 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title      : Agency Jekyll Theme Demo
-email      : your-email@example.com #this is also the email contact forms will go to
-author     : Your Name
-description: >- # this means to ignore newlines until "baseurl:"
+baseurl    : "" # the subpath of your site, e.g. /blog
+url        : "" # the base hostname & protocol for your site, e.g. http://example.com
+
+title      : Bike Bus Network
+email      : your-email@example.com
+author     : Heath Raftery
+description: >-
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-# logo:     #optional, defaults to site title
-  # path: assets\img\clients\creative-market.jpg
-  # height: 60 #height in px, defaults to 52px
+logo:     #optional, defaults to site title
+  path: assets/img/logo.png
+  height: 80 #height in px, defaults to 52px
 
 
 # Build settings
