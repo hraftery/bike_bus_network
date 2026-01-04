@@ -12,11 +12,11 @@
 en: &DEFAULT_EN
   nav:
     - title: "Learn"
-      url: services
+      url: learn
     - title: "Join"
-      section: about
+      section: join
     - title: "Create"
-      section: about
+      section: create
     - title: "Contact"
       section: contact
 en-US:
