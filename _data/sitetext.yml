@@ -21,13 +21,13 @@ en: &DEFAULT_EN
     text: "The more, the merrier"
     section: services
     list:
-      - title: "[Learn](https://en.wikipedia.org/wiki/Markdown)"
+      - title: "[Learn](#learn)"
         desc: "What's a bike bus, and why does it matter?"
         icon: fas fa-book-open
-      - title: "Join"
+      - title: "[Join](#join)"
         desc: "Hop on board your local bike bus."
         icon: fas fa-bus
-      - title: "Create"
+      - title: "[Create](#create)"
         desc: "Start a bike bus near you."
         icon: fas fa-plus-circle
 
@@ -37,11 +37,11 @@ en: &DEFAULT_EN
       body: >-
         A **Bike Bus** is simply a group of families riding to school together along a regular route.
         Around the world communities are discovering the joy and positivity this simple act brings.
-        [This short video](https://www.youtube.com/watch?v=zNOb377piC8) paints a thousand words.
+        This video to the left paints a thousand words.
         <br><br>
         The concept was popularised in the USA by one man, Sam Balto, who created [Bike Bus World](https://bikebus.world/).
         The Bike Bus Network is heavily influenced by his work, and Sam's website is a great place to start your learning.
-      image: "assets/img/52374447801_6a55ac5f1d_o.jpg"
+      video: "https://www.youtube.com/watch?v=zNOb377piC8"
       section: learn
       media_float: "left"
     - title: "Join"
@@ -60,7 +60,7 @@ en: &DEFAULT_EN
     - title: "Create"
       text: "Start a bike bus near you."
       body: >-
-        I started a bike bus and you can too. I heartily recommend these resources:
+        Expand the network! I started a bike bus and you can too. I heartily recommend these resources:
           - [I Started a Bike Bus, and You Can Too](https://www.wired.com/story/how-to-start-a-bike-bus/), an inspiring story from WIRED of Adrienne So, who became a bike mum after watching through tears the joy recorded by Sam Balto.
           - [FRideDays Bike Bus - Walk Wheel Cycle Trust](https://www.walkwheelcycletrust.org.uk/campaigns/fridedays-bike-bus/) in the UK, who offer a very practical getting started guide that works anywhere.
           - Other toolkits:
