@@ -43,7 +43,7 @@ en: &DEFAULT_EN
         The Bike Bus Network is heavily influenced by his work, and Sam's website is a great place to start your learning.
       image: "assets/img/52374447801_6a55ac5f1d_o.jpg"
       section: learn
-      image_float: "left"
+      media_float: "left"
     - title: "Join"
       text: "Hop on board your local bike bus."
       body: >-
@@ -56,7 +56,7 @@ en: &DEFAULT_EN
           - [The Bike Bus Project](https://bikebus.org.au) is a Bicycle NSW initiative with 8 routes in Sydney, but with a focus on commuting, not school.
       image: "assets/img/map.png"
       section: join
-      image_float: "right"
+      media_float: "right"
     - title: "Create"
       text: "Start a bike bus near you."
       body: >-
@@ -69,7 +69,7 @@ en: &DEFAULT_EN
             - [Bike Bus World - Getting Started Guide](https://bikebus.world/how-to-start-a-bike-bus), the guide that launched a thousand bike busses.
       image: "assets/img/create.jpeg"
       section: create
-      image_float: "left"
+      media_float: "left"
 
   contact:
     title: "Get In Touch"

@@ -1,5 +1,30 @@
 {% assign section_data = include.section_data %}
-{% assign image_float = include.section_data.image_float | default: 'left' %}
+{% assign media_float = include.section_data.media_float | default: 'left' %}
+
+{% comment %} Extract video ID if video is provided {% endcomment %}
+{% if section_data.video %}
+  {% assign video_url = section_data.video %}
+  {% if video_url contains 'youtube.com/watch?v=' %}
+    {% assign video_id = video_url | split: 'v=' | last | split: '&' | first %}
+  {% elsif video_url contains 'youtu.be/' %}
+    {% assign video_id = video_url | split: 'youtu.be/' | last | split: '?' | first %}
+  {% elsif video_url contains 'youtube.com/embed/' %}
+    {% assign video_id = video_url | split: 'embed/' | last | split: '?' | first %}
+  {% else %}
+    {% assign video_id = video_url %}
+  {% endif %}
+{% endif %}
+
+{% comment %} Build media HTML once {% endcomment %}
+{% capture media_content %}
+  {% if section_data.video %}
+    <div class="embed-responsive embed-responsive-16by9">
+      <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/{{ video_id }}" allowfullscreen></iframe>
+    </div>
+  {% elsif section_data.image %}
+    <img class="img-fluid" src="{{ section_data.image }}" alt="{{ section_data.title }}">
+  {% endif %}
+{% endcapture %}
 
 <!-- {{ section_data.title }} -->
 <section class="page-section" id="{{ section_data.section }}">
@@ -13,19 +38,19 @@
       </div>
     </div>
     <div class="row align-items-center">
-      {% if image_float == 'left' %}
+      {% if media_float == 'left' %}
       <div class="col-lg-4">
-        <img class="img-fluid" src="{{ section_data.image }}" alt="{{ section_data.title }}">
+        {{ media_content }}
       </div>
+      {% endif %}
+      
       <div class="col-lg-8">
         <div class="large text-muted">{{ section_data.body | markdownify }}</div>
       </div>
-      {% else %}
-      <div class="col-lg-8">
-        <div class="large text-muted">{{ section_data.body | markdownify }}</div>
-      </div>
+      
+      {% if media_float == 'right' %}
       <div class="col-lg-4">
-        <img class="img-fluid" src="{{ section_data.image }}" alt="{{ section_data.title }}">
+        {{ media_content }}
       </div>
       {% endif %}
     </div>
