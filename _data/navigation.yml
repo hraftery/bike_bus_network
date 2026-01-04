@@ -17,6 +17,8 @@ en: &DEFAULT_EN
       section: about
     - title: "Create"
       section: about
+    - title: "Contact"
+      section: contact
 en-US:
   <<: *DEFAULT_EN
 en-CA:
