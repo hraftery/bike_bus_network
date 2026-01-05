@@ -28,12 +28,13 @@ description: >-
   A network of local bike busses, providing a safe, joyful way to get to school.
 logo:     #optional, defaults to site title
   path: assets/img/logo.png
-  height: 80 #height in px, defaults to 52px
+  max-height: 80px #used on big screens.
+  min-height: 55px #small screens, and when the nav bar shrinks after scrolling.
 
 
 # Build settings
 #theme: jekyll-agency
-remote_theme: raviriley/agency-jekyll-theme@d477a171ec9633c980c8ef9098eeac39b60ceba3
+remote_theme: hraftery/agency-jekyll-theme@bb709acbe7173a7cce3b7b4f45b4a001dc258b08
 plugins:
 #  - jekyll-feed
   - jekyll-remote-theme
