@@ -33,11 +33,11 @@ logo:     #optional, defaults to site title
 
 
 # Build settings
-#theme: jekyll-agency
-remote_theme: hraftery/agency-jekyll-theme@bb709acbe7173a7cce3b7b4f45b4a001dc258b08
-plugins:
-#  - jekyll-feed
-  - jekyll-remote-theme
+theme: jekyll-agency
+# remote_theme: hraftery/agency-jekyll-theme@943aeee47cf5109d6743070aa2f151359271a54b
+# plugins:
+# #  - jekyll-feed
+#   - jekyll-remote-theme
 
 locale: "en-US" # See available languages in _data/sitetext.yml
 analytics:
