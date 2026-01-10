@@ -27,7 +27,7 @@ author     : Heath Raftery
 description: >-
   A network of local bike busses, providing a safe, joyful way to get to school.
 logo:     #optional, defaults to site title
-  path: assets/img/logo.png
+  path: /assets/img/logo.png
   max-height: 60px #used on big screens.
   min-height: 38px #small screens, and when the nav bar shrinks after scrolling.
 

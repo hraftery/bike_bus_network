@@ -11,7 +11,7 @@ end
 # uninstall 3.1.0 so you can run `jekyll` instead of `bundle exec jekyll`. But once this
 # issue is resolved we might not need it at all: https://github.com/raviriley/agency-jekyll-theme/issues/103
 #gem 'jekyll-remote-theme', '~> 0.4.3'
-gem 'jekyll-agency', git: 'https://github.com/hraftery/agency-jekyll-theme.git', tag: '1.2.1'
+gem 'jekyll-agency', git: 'https://github.com/hraftery/agency-jekyll-theme.git', tag: '1.2.2'
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
@@ -28,4 +28,4 @@ gem "wdm", "~> 0.1", :platforms => [:windows]
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 # Prevent warning about logger not being a default gem in the future.
-gem "logger", "~> 1.6.4"
+gem "logger", "~> 1.7"

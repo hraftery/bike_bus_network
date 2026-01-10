@@ -1,9 +1,9 @@
 GIT
   remote: https://github.com/hraftery/agency-jekyll-theme.git
-  revision: 3a804eee874e56a2360091984de533423258b033
-  tag: 1.2.1
+  revision: fc041b81379aa49ece9b753507ceca576880cc8d
+  tag: 1.2.2
   specs:
-    jekyll-agency (1.2.1)
+    jekyll-agency (1.2.2)
       jekyll (>= 4.0, < 4.5)
 
 GEM
@@ -94,7 +94,7 @@ GEM
     listen (3.9.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
-    logger (1.6.4)
+    logger (1.7.0)
     mercenary (0.4.0)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
@@ -166,7 +166,7 @@ DEPENDENCIES
   http_parser.rb (~> 0.6.0)
   jekyll (~> 4.4.1)
   jekyll-agency!
-  logger (~> 1.6.4)
+  logger (~> 1.7)
   tzinfo (>= 1, < 3)
   tzinfo-data
   wdm (~> 0.1)
