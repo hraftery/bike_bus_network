@@ -2,12 +2,14 @@
 layout: page
 title: Cardiff South
 ---
-**Heading to Cardiff South Public School?**
 
-Our bike bus starts on Haddington Drive and travels through the streets south of the school, arriving via Beeson Street. Let us know if you'd like to jump on board.
+#### Heading to Cardiff South Public School?
 
-For the latest info, and to jump on the bus, join our WhatsApp group.
+Our bike bus starts on Haddington Drive and travels through the streets south of the school, arriving via Beeson Street.
 
+For the latest info, and to jump on board, [join our WhatsApp group](https://chat.whatsapp.com/LE6K3as96i3CURnTyBlEmQ).
+
+<br/>
 <div class="col-lg-12 text-center">
 	<h2 class="section-heading text-uppercase">The Route</h2>
 </div>
@@ -22,27 +24,29 @@ The total length is 2.0km. This being Cardiff South it is all on road, with a sm
 
 Click [here](/assets/img/routes/0001/map_with_data.png) for a more detailed map with an elevation profile.
 
+<br/>
 <div class="col-lg-12 text-center">
 	<h2 class="section-heading text-uppercase">The Timing</h2>
 </div>
 
-We ride every Wednesday morning in term, **leaving the starting point at 8:15am**. At around 10km/h, we'll arrive at school by play bell time at 8:30am.
+We ride every **Wednesday morning in term, leaving the starting point at 8:15am**. At around 10km/h, we'll arrive at school by play bell time at 8:30am.
 
 Feel free to join in at any point along the route - there are no planned stops (other than the safety crossing at Crockett) but if you let us know you're coming we can steer the bus your way.
 
 In case of typhoon or other potentially ruinous event, check WhatsApp for up to date plans.
 
+<br/>
 <div class="col-lg-12 text-center">
 	<h2 class="section-heading text-uppercase">The Rules</h2>
 </div>
 
 ##### What ages can join the bus?
 
-Anyone you can move at a slow cycling pace (10km/h) is welcome. I'll bring my preschooler in a bike trailer. Puppies in a basket, year 6'ers on BMX's, 10 year olds on a scooter are all welcome. As long as we can keep them safe, there's a spot on the bus.
+Anyone you can move at a slow cycling pace (10km/h) is welcome. Preschoolers in a bike trailer, puppies in a basket, year 6'ers on BMX and 10 year olds on a scooter are all welcome. As long as we can keep them safe, there's a spot on the bus.
 
 ##### Do I need a bike?
 
-You and your children need an open air way to keep up with the bus. Cargo bikes, BMX's, scooters, e-bikes, recumbents, bike trailers, tag-a-longs, mountain bikes with pegs and shocks are lucky, and all welcome.
+You and your children need a human-propelled way to keep up with the bus. Cargo bikes, BMX, scooters, e-bikes, recumbents, bike trailers, tag-a-longs, mountain bikes with pegs and shocks are lucky, and all welcome.
 
 ##### Who keeps the kids safe?
 
@@ -50,7 +54,7 @@ You, a responsible adult, are responsible for anyone you put on the bus. Either 
 
 ##### Is the bus safe?
 
-All road use is risky, but participant safety is paramount. Every bus has at least one leader, wearing high-vis clothing, who is coached on ensuring we're as safe as practical. All participants are expected to follow the road rules, including keeping left and giving way at intersections. Those that don't follow the rules are not welcome on the bus.
+All road use entails risk, but participant safety is paramount. Every bus has at least one leader, wearing high-vis clothing, who is coached on ensuring we're as safe as practical. All participants are expected to follow the road rules, including keeping left and giving way. Those that don't follow the rules are not welcome on the bus.
 
 The route has been risk assessed and risky movements, such as turning right or crossing roads, have an execution plan to minimise risk. The route itself is designed to minimise risky interactions, and residual risks such as crossing Crockett Street, have a protocol to ensure they are as safe as practical.
 
@@ -58,12 +62,13 @@ The route has been risk assessed and risky movements, such as turning right or c
 
 Absolutely. Just ensure it is legal. In NSW a good check is to ensure it is not propelled unless it is being pedalled. Any illegal vehicles will be excluded from the bus.
 
+<br/>
 <div class="col-lg-12 text-center">
 	<h2 class="section-heading text-uppercase">Who's behind this?</h2>
 </div>
 
-I'm Heath Raftery. I moved to Cardiff South in 2023 and our two little girls started at Tilly's. My little big girl started Preschool at Cardiff South in 2024, and this year both girls will join the Cardiff South family. We've finally found our community and have been delighted with the school and the connections we've made.
+I'm Heath Raftery. I moved to Cardiff South in 2023 and our two little girls started at Tilly's. My little big girl started Preschool at Cardiff South in 2024, and this year both girls will join the Cardiff South family. We're delighted to have found our community, the school and the connections we've made.
 
-![my kids](/assets/img/routes/0001/who.jpg){: style="max-width: 500px;"}
+![my kids](/assets/img/routes/0001/who.jpg){: style="max-width: 500px; margin:auto; display: block;"}
 
-I used to ride a lot. Now a little less and a little slower. But I ride with the kids to school and back as much as I can. It's a joy I'd love to share with others.
+I used to ride a lot. Now, a little less and a little slower. But these days I get to ride with my kids to school and back. It's a joy I'd love to share with others.
