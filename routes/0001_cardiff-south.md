@@ -7,7 +7,7 @@ title: Cardiff South
 
 Our bike bus starts on Haddington Drive and travels through the streets south of the school, arriving via Beeson Street.
 
-For the latest info, and to jump on board, [join our WhatsApp group](https://chat.whatsapp.com/LE6K3as96i3CURnTyBlEmQ).
+For the latest info, and to jump on board, [join our WhatsApp group](https://chat.whatsapp.com/H2RGXUuFEK7DpRn6JWro6Y).
 
 <br/>
 <div class="col-lg-12 text-center">
