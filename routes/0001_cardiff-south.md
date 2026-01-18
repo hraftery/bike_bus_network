@@ -71,6 +71,6 @@ I'm Heath Raftery. I moved to Cardiff South in 2023 and our two little girls sta
 
 ![my kids](/assets/img/routes/0001/who.jpg){: style="max-width: 500px; margin:auto; display: block;"}
 
-The kids and I love riding "the charriot" to school. It's a joy we'd love to share with others.
+The kids and I love riding "the chariot" to school. It's a joy we'd love to share with others.
 
 ![the charriot](/assets/img/routes/0001/who2.jpg){: style="max-width: 500px; margin:auto; display: block;"}
