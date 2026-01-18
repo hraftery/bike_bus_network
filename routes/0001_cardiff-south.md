@@ -7,7 +7,7 @@ title: Cardiff South
 
 Our bike bus starts on Haddington Drive and travels through the streets south of the school, arriving via Beeson Street.
 
-For the latest info, and to jump on board, [join our WhatsApp group](https://chat.whatsapp.com/H2RGXUuFEK7DpRn6JWro6Y).
+For the latest info, and to jump on board, [click here to join our WhatsApp group](https://chat.whatsapp.com/Bgn5dRoqcWdE7eOJXu0B8v).
 
 <br/>
 <div class="col-lg-12 text-center">
@@ -71,4 +71,6 @@ I'm Heath Raftery. I moved to Cardiff South in 2023 and our two little girls sta
 
 ![my kids](/assets/img/routes/0001/who.jpg){: style="max-width: 500px; margin:auto; display: block;"}
 
-I used to ride a lot. Now, a little less and a little slower. But these days I get to ride with my kids to school and back. It's a joy I'd love to share with others.
+The kids and I love riding "the charriot" to school. It's a joy we'd love to share with others.
+
+![the charriot](/assets/img/routes/0001/who2.jpg){: style="max-width: 500px; margin:auto; display: block;"}
