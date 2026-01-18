@@ -21,15 +21,18 @@ en: &DEFAULT_EN
     text: "The more, the merrier"
     section: services
     list:
-      - title: "[Learn](#learn)"
+      - title: "Learn"
         desc: "What's a bike bus, and why does it matter?"
         icon: fas fa-book-open
-      - title: "[Join](#join)"
+        url: "#learn"
+      - title: "Join"
         desc: "Hop on board your local bike bus."
         icon: fas fa-bus
-      - title: "[Create](#create)"
+        url: "#join"
+      - title: "Create"
         desc: "Start a bike bus near you."
         icon: fas fa-plus-circle
+        url: "#create"
 
   content_sections:
     - title: "Learn"

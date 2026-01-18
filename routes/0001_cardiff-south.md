@@ -29,7 +29,7 @@ Click [here](/assets/img/routes/0001/map_with_data.png) for a more detailed map 
 	<h2 class="section-heading text-uppercase">The Timing</h2>
 </div>
 
-We ride every **Wednesday morning in term, leaving the starting point at 8:15am**. At around 10km/h, we'll arrive at school by play bell time at 8:30am.
+We ride every **Wednesday morning in term, leaving the starting point at 8:15am**. At a gentle 10km/h, we'll arrive at school around play bell time at 8:30am.
 
 Feel free to join in at any point along the route - there are no planned stops (other than the safety crossing at Crockett) but if you let us know you're coming we can steer the bus your way.
 

@@ -1,9 +1,9 @@
 GIT
   remote: https://github.com/hraftery/agency-jekyll-theme.git
-  revision: fc041b81379aa49ece9b753507ceca576880cc8d
-  tag: 1.2.2
+  revision: 5b0d9155773309df1770655abdea6a5289e2c5b6
+  tag: 1.2.3
   specs:
-    jekyll-agency (1.2.2)
+    jekyll-agency (1.2.3)
       jekyll (>= 4.0, < 4.5)
 
 GEM
