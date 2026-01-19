@@ -50,7 +50,7 @@ en: &DEFAULT_EN
     - title: "Join"
       text: "Hop on board your local bike bus."
       body: >-
-        The first route in the Bike Bus Network is in Cardiff South. For more info and to jump on a bus click below:
+        The first route in the Bike Bus Network is in Cardiff South. For more info and to jump on a bus, click below:
         <br>
           - [South of **Cardiff South Public School**, New South Wales, Australia](routes/0001_cardiff-south).
         
@@ -64,13 +64,19 @@ en: &DEFAULT_EN
     - title: "Create"
       text: "Start a bike bus near you."
       body: >-
-        Expand the network! I started a bike bus and you can too. I heartily recommend these resources:
+        Curious? I heartily recommend these resources :
           - [I Started a Bike Bus, and You Can Too](https://www.wired.com/story/how-to-start-a-bike-bus/), an inspiring story from WIRED of Adrienne So, who became a bike mum after watching through tears the joy recorded by Sam Balto.
           - [FRideDays Bike Bus - Walk Wheel Cycle Trust](https://www.walkwheelcycletrust.org.uk/campaigns/fridedays-bike-bus/) in the UK, who offer a very practical getting started guide that works anywhere.
           - Other toolkits:
             - [NL ToVP Bike Bus event TOOLKIT](https://www.victoriapark.wa.gov.au/Profiles/vicpark/Assets/ClientData/Documents/About/Strategic_Direction/Strategic_Programs/Integrated_Transport_Strategy/Bike_Bus_Toolkit.pdf) from Victoria Park in WA.
             - [How to Start a Bike Bus](https://cdn.shopify.com/s/files/1/0734/8276/4603/files/How_to_Start_a_Bike_Bus_A_Step-by-Step_Guide_Starting_a_bike_bus_is_a_fantastic_way_to_encourage_kids_to_cycle_to_school_safely_make_commuting_more_fun_and_promote_a_healthier_greener.pdf?v=1753843450) from Dutch Cargo Bikes.
-            - [Bike Bus World - Getting Started Guide](https://bikebus.world/how-to-start-a-bike-bus), the guide that launched a thousand bike busses.
+            - [Bike Bus World - Getting Started Guide](https://bikebus.world/how-to-start-a-bike-bus) from the OG.
+        
+        Join the network, for free. Just fill out the contact form below or [email me](mailto:create@bikebus.net.au) to get:
+          - A **template** of route guidelines, bus rules and joining info to make your own.
+          - An optional **WhatsApp group** and on-boarding messages to handle your bike bus comms.
+          - A **flyer** template to get the word out in your neighbourhood.
+          - A **web page** on this site to point your riders too.
       image: "assets/img/create.jpeg"
       section: create
       media_float: "left"
